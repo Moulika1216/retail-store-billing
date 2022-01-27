@@ -83,4 +83,4 @@ Here is a glance of the UML diagram of the java classes being used:
 
 ## Code Coverage
 Here is the glance of the code coverage for the classes being used:
-![Code Coverage](src/main/resources/static/Code_Coverage_ss.png?raw=true)
+![Code Coverage](src/main/resources/static/Code_coverage_ss.png?raw=true)
