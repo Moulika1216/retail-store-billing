@@ -1,4 +1,4 @@
-package com.retailstore.billing.modal;
+package com.retailstore.billing.model;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package com.retailstore.billing.data;
 
-import com.retailstore.billing.modal.User;
+import com.retailstore.billing.model.User;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;

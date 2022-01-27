@@ -1,9 +1,9 @@
 package com.retailstore.billing.service;
 
 import com.retailstore.billing.data.SampleDataGenerator;
-import com.retailstore.billing.modal.BillingAmount;
-import com.retailstore.billing.modal.BillingDetails;
-import com.retailstore.billing.modal.User;
+import com.retailstore.billing.model.BillingAmount;
+import com.retailstore.billing.model.BillingDetails;
+import com.retailstore.billing.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

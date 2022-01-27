@@ -1,6 +1,6 @@
 package com.retailstore.billing.controller;
 
-import com.retailstore.billing.modal.BillingDetails;
+import com.retailstore.billing.model.BillingDetails;
 import com.retailstore.billing.service.BillingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

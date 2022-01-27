@@ -1,4 +1,4 @@
-package com.retailstore.billing.modal;
+package com.retailstore.billing.model;
 
 import java.time.LocalDate;
 
@@ -9,6 +9,10 @@ public class User {
     private String mobileNo;
     private String userType;
     private LocalDate createdDt;
+
+    public User() {
+
+    }
 
     public User(Long userId, String username, String mobileNo, String userType, LocalDate createdDt) {
         this.userId = userId;
